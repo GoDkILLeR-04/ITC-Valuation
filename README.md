@@ -1,4 +1,4 @@
-# Comprehensive Stock Valuation Models
+# ITC Stock Valuation 
 
 This repository provides a suite of stock valuation models **Discounted Cash Flow (DCF)**, **Dividend Discount Model (DDM)**, and **Relative Valuation** to help you estimate the intrinsic and relative value of a publicly traded company. Whether you want to analyze a dividend-paying stock or benchmark against peers, this toolkit offers practical, customizable templates for your analysis.
 
